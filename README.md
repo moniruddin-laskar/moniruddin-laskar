@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Luit Android App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Flutter Development**
 
-- 💬 Ask me about **Fluter, Android , Kotlin**
+- 💬 Ask me about **Dart, Fluter, Android , Kotlin, Php , JavaScript**
 
 - 📫 How to reach me **me@monirudd.in**
 
@@ -24,6 +24,7 @@
 <a href="https://twitter.com/moniruddin_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moniruddin" height="25" width="30" /></a>
 <a href="https://www.linkedin.com/in/moniruddin-laskar-893792221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moniruddin" height="25" width="30" /></a>
 <a href="https://www.instagram.com/moniruddin____1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moniruddin" height="25" width="30" /></a>
+<a href="https://www.facebook.com/moniruddin.laskar.739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moniruddin" height="30" width="35" /></a>
 <a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moniruddin" height="30" width="35" /></a>
 </p>
 
