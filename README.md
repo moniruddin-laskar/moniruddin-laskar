@@ -11,9 +11,9 @@
 
 - ✍ You can find my projects here at **[My Portfolio](https://monirudd.in)**
 
-- 🔭 I’m currently working on **Luit Android App**
+- 🔭 I’m currently working on **Various Android Application Projects**
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Android Application Development with Kotlin**
 
 - 💬 Ask me about **Dart, Fluter, Android , Kotlin, Php , JavaScript**
 
